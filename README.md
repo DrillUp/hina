@@ -19,4 +19,4 @@
 [drill_up链接](https://github.com/DrillUp)
 <https://github.com/DrillUp>
 
-<img src="" width="300px" height="20px" alt="测试图片">
+<img src="https://github.com/DrillUp/hina/blob/master/hina%20spinning%20(5).gif" alt="hina">
